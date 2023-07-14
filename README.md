@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i0.wp.com/www.techquintal.com/wp-content/uploads/2021/10/Kali-Linux.jpg?fit=1024%2C576&ssl=1" width="30%" title="Intro Card" alt="Intro Card">
-</p>
-
 "¡Hola! Soy un apasionado desarrollador web full-stack con experiencia en la creación de aplicaciones y sitios web. Mi objetivo es combinar mis habilidades técnicas y creativas para desarrollar soluciones digitales innovadoras y funcionales.
 
 Tengo un sólido conocimiento en lenguajes de programación como HTML, CSS, JavaScript y frameworks populares como React.js y Node.js. Además, estoy familiarizado con bases de datos como postgreSQL lo que me permite diseñar y administrar eficientemente la capa de almacenamiento de datos de mis proyectos.:wink:
@@ -34,41 +30,14 @@ Tengo un sólido conocimiento en lenguajes de programación como HTML, CSS, Java
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+<p>  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aldotorrez&show_icons=true&locale=en" alt="aldotorrez" /></p>
 
 ---
 
-
-### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aldo-torrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo-torrez" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adlotorrez91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adlotorrez91" height="30" width="40" /></a>
+</p>
 
 ---
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Souravdey777](https://github.com/Souravdey777)
-
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
