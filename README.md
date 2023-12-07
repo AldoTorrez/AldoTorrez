@@ -4,7 +4,7 @@
 
 Soy un apasionado desarrollador web full-stack con experiencia en la creación de aplicaciones y sitios web. Mi objetivo es combinar mis habilidades técnicas y creativas para desarrollar soluciones digitales innovadoras y funcionales.
 
-Tengo un sólido conocimiento en lenguajes de programación como HTML, CSS, JavaScript y frameworks populares como React.js y Node.js. Además, estoy familiarizado con bases de datos como postgreSQL lo que me permite diseñar y administrar eficientemente la capa de almacenamiento de datos de mis proyectos.:wink:
+Tengo un sólido conocimiento en lenguajes de programación como HTML, CSS, JavaScript y frameworks populares como React.js y Node.js. Además, estoy familiarizado con bases de datos como postgreSQL lo que me permite diseñar y administrar eficientemente la capa de almacenamiento de datos de mis proyectos.
 
 
 ---
