@@ -1,11 +1,12 @@
-### Hola soy Aldo Torrez👋 
+### Hola, soy Aldo Torrez👋 
 
 ---
 
-Soy un apasionado desarrollador web full-stack con experiencia en la creación de aplicaciones y sitios web. Mi objetivo es combinar mis habilidades técnicas y creativas para desarrollar soluciones digitales innovadoras y funcionales.
+Soy un Desarrollador Web Full Stack con experiencia en la creacion de aplicaciones web.
+Mi enfoque es combinar mis habilidades tecnicas y creativas para desarrollar proyetos innovadores que den solucion a problemas del mundo real.
 
-Tengo un sólido conocimiento en lenguajes de programación como HTML, CSS, JavaScript y frameworks populares como React.js y Node.js. Además, estoy familiarizado con bases de datos como postgreSQL lo que me permite diseñar y administrar eficientemente la capa de almacenamiento de datos de mis proyectos.
-
+Tengo un solido conocimiento en tecnologias como HTML5 | CSS3 | JavaScript | React | Node | PostgreSQL, lo que me permite desarrollar aplicaciones web completas.
+tambien estoy en constante aprendisaje de nuevas tecnologias para seguir creaciendo profecionalmente.
 
 ---
 
