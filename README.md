@@ -44,7 +44,7 @@ tambien estoy en constante aprendisaje de nuevas tecnologias para seguir creacie
 
 ---
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AldoTorrez&show_icons=true&count_private=true&hide=contribs&theme=nord)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AldoTorrez&show_icons=true&count_private=true&hide=contribs&theme=black)
 
 
 
