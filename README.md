@@ -37,8 +37,8 @@ tambien estoy en constante aprendisaje de nuevas tecnologias para seguir creacie
   
 ### Contact me:
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-¡Conéctate%20con%20migo!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-nombre/) &nbsp; 
-[![Correo Electrónico](https://img.shields.io/badge/Correo-Escríbeme%20aquí!-red?style=for-the-badge&logo=gmail)](mailto:tu-correo@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-¡Conéctate%20con%20migo!-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-torrez/) &nbsp; 
+[![Correo Electrónico](https://img.shields.io/badge/Correo-Escríbeme%20aquí!-red?style=for-the-badge&logo=gmail)](mailto:adlotorrez91@gmail.com)
 
 </div>
 
