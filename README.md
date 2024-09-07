@@ -4,7 +4,7 @@
 
 ---
 
-Soy un Desarrollador Web Full Stack, tengo 21 años y soy de Bolivia, tengo una fuerte pasión por la programación aunque aún no tengo experiencia profecional he dedicado muchas horas a aprender y practicar diversas tecnologias como JavaScript, Python y Java ademas de algunos frameworks he trabajado en varios proyectos personales desarrollando aplicaciones web.
+Soy un Desarrollador Web Full Stack, tengo 21 años y soy de Bolivia, tengo una fuerte pasión por la programación aunque aún no tengo experiencia laboral he dedicado muchas horas a aprender y practicar diversas tecnologias como JavaScript, Python y Java ademas de algunos frameworks he trabajado en varios proyectos personales desarrollando aplicaciones web.
 y tambien practico constantemente el inglés.
 y busco una oportunidad en una empresa donde pueda contribuir con mis habilidades y entusiasmo donde pueda crear productos impactantes.
 
